@@ -2,7 +2,8 @@
 The world is turning towards renewable energies to sustainably meet its increasing demand for energy. Naturally, this is being accompanied by a strong momentum in trading within Renewable Energy market. Today, Behavioral Finance acknowledges the major role of wider psychological and social factors in shaping the stock market, through influencing Investors’ Sentiment. Therefore, this paper explores the understudied question of whether environmental television newscasts can be used as a proxy for measuring Investors’ Sentiment and in improving the forecast accuracy of Renewable Energy stock prices. First, we compute the sentiment scores of the environmental newscasts of CNN, BBC News, MSNBC, and Fox News. We then use machine learning to implement a baseline forecast model, as well as an augmented one which takes the newscasts’ sentiments scores as input. Using four different accuracy metrics, we find that environmental TV newscasts can improve the forecast accuracy of RE stocks price in 78% of the experiments, and decrease the MAE, MSE and RMSE in 83.3% of the experiments.  We also find that the sentiments of conservative news outlets, such as Fox News, has a greater impact on the Renewable Energy stock prices than liberal ones. Finally, we provide some insights into potential psychological dynamics that can help us make sense of the results, such as the negativity bias theory.
 
 # Author:
-Ahmad Amine Loutfi, PhD Research Fellow - NTNU Business School, Norwegian Univeristy of Science and Technology.
+Ahmad Amine Loutfi, PhD Research Fellow.
+NTNU Business School, Norwegian Univeristy of Science and Technology.
 
 
 # Data:
