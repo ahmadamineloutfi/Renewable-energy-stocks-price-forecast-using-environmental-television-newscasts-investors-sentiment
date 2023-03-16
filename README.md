@@ -17,10 +17,10 @@ The dataset of this study is made up of two parts:
 Our final dataset is made up of 3856 rows of data which maps to the periods between July 2nd, 2009, and January 21st, 2021. The dataset was split into a training set (the first 2458days), a validation set (the next 820 days) and a test set (the last 578 days). To draw a meaningful comparison between the forecast accuracy of the baseline and the newscasts-augmented models, it was important that we choose the same algorithm for both models. Therefore, we implemented the same LSTM neural network architecture. For its design, we followed the principle of simplicity, where we kept the model at 1 hidden layer.  To prevent overfitting, we leveraged the dropout regularization technique as well as early stopping while restoring the best weights. For the activation functions, we used RELU and for the recurrent activation we used Sigmoid. To determine the number of hidden neurons for each RE firms’ stock, we used the  industry-standard formula:N_h= N_t/(a (N_i+N_o)) where N_h is the number of hidden neurons, N_t is the number of samples in training data set, N_o is the size of the input neurons, is the size of output neurons, and  a is an arbitrary scaling factor usually between 2 and 10. Finally, for optimization we used Adam algorithm .
 
 # Environmental TV Newscasts dataset:
-NLP.zip
+Upload: 'NLP.zip'.
 
 # Python File:
-environmental_TV_newscasts.py.
+Upload: 'environmental_tv_newscasts.py'.
 
 # References
 Singh, A. (2020). Environmental News NLP Dataset. https://www.kaggle.com/datasets/amritvirsinghx/environmental-news-nlp-dataset.
