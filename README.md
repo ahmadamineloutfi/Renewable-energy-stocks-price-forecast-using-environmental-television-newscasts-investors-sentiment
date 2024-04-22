@@ -26,5 +26,4 @@ Environmental TV Newscasts dataset:
 
 # References:
 -	Yahoo Finance. (2022). Historical daily adjusted stock prices of firms in the WilderHill Clean Energy Index (ECO) [API data]. https://finance.yahoo.com/.
--	Singh, A. (2020). Environmental News NLP Dataset. https://www.kaggle.com/datasets/amritvirsinghx/environmental-news-nlp-datase.
 
